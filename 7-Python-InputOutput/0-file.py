@@ -5,3 +5,5 @@ with open("mydata.txt", mode="w", encoding="utf-8") as myfile:
 
 with open("mydata.txt", encoding="utf-8") as myfile:
     print(myfile.read())
+
+print(myfile.close)
