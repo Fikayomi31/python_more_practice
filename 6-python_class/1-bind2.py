@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 """Another way of using counter attribute"""
+
 def bind(x):
     bind.counter = getattr(bind, 'counter', 0) + 1
     return "Monty Python"

@@ -19,7 +19,7 @@ if __name__ == "__main__":
     print("My name is {} and I was created in {}".format(x.name, x.built_year))
     print("My name is {} and I was creared in {}".format(y.name, y.built_year))
     
-    """ Using the function getattr to prevent attribute that is not defined
+    """ Using the function getattr to create attribute that is not defined
     which will be used to create new attribute year for year of the robot"""
     year = getattr(x, 'year', 100)
     print(year)
