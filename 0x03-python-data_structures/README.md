@@ -6,4 +6,4 @@
 3. Function to print a list in a reversed order with str.format of integer
 4. Function to replace an element in a list at a specific position without modifying the original list
 5. Function that remove all character c abd C from a string
-6. 
+6. Function that print a matrix of integer
