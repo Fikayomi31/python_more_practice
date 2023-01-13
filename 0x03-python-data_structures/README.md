@@ -9,4 +9,5 @@
 6. Function that print a matrix of integer
 7. Function that add 2 tuple
 8. Function to return a tuple with kength of a string and its first character
-9. 
+9. Function that finds the highest or biggest integer of a list
+10. 
