@@ -5,6 +5,4 @@ function pyfile {
 	chmod +x "$1"
 	vi "$1"
 	git add .
-	git commit -m '   '
-	git push
 }
