@@ -12,4 +12,4 @@
 9. Function that finds the highest or biggest integer of a list
 10. Function that find all multiples of 2 in a list
 11. Function that delete the item at a specific position in a list
-12. 
+12. Switch value of a to b
