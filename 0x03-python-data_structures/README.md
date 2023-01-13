@@ -10,4 +10,5 @@
 7. Function that add 2 tuple
 8. Function to return a tuple with kength of a string and its first character
 9. Function that finds the highest or biggest integer of a list
-10. 
+10. Function that find all multiples of 2 in a list
+11. 
