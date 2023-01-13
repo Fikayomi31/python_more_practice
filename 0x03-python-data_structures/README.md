@@ -11,4 +11,5 @@
 8. Function to return a tuple with kength of a string and its first character
 9. Function that finds the highest or biggest integer of a list
 10. Function that find all multiples of 2 in a list
-11. 
+11. Function that delete the item at a specific position in a list
+12. 
